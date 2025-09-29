@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* Other CSS rules follow */
+
+.header {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
