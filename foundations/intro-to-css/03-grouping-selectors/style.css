@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.buttonsetting1 {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.buttonsetting2 {
+    background-color: black;
+    color: white;
+}
+
+.buttonsetting3 {
+    background-color: yellow;
+}
